@@ -1,4 +1,7 @@
 # GOLEM
+<p align="center">
+  <img src="TOC.png" alt="GOLEM intro" width="600">
+</p>
 GOLEM (Genetic Optimization of Ligands in Experimental Maps) provides an automated and robust way to perform cryo-EM-guided ligand docking with explicit water molecules. It employs a Lamarckian genetic algorithm to explore the ligand's conformational, orientational, and positional space, with explicit consideration of water displacement and bridging water molecules' position and orientation. GOLEM takes into account both energetics and the correlation with electron density maps in its scoring function, which combines the system's energy and the energy of the ligand in a cryo-EM-derived external potential.
 
 ## Publication
